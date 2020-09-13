@@ -28,22 +28,22 @@ auto_reply_info:
     - '贴心小秘书'
 
   # 机器人渠道（1: 图灵机器人，2: 一个AI ,3 : 青云客，4 腾讯智能闲聊，5:天行机器人,6：海知智能，7：思知机器人)
-  bot_channel: 7
+  bot_channel:4
 
   #图灵机器人(http://www.tuling123.com/) 实名后的用户每天免费可用 100 条。
   turing_conf:
-    apiKey: '你申请的apikey'
+    apiKey: 'zHrIKOwycHBe0I32'
 
     # 天行机器人 ( https://www.tianapi.com/apiview/47 )。做完任务大概能免费用7万条，收费：1万条/1块钱
   txapi_conf:
-    app_key: '个人中心中的key'
+    app_key: '2156656407'
     reply_name: '宝宝' # 回复的人的名字(可空)（也可在个人中心->机器人管理 修改）
     bot_name: '老公' # 机器人的名字（可空）
 
   # 智能闲聊（腾讯）https://ai.qq.com/product/nlpchat.shtml。免费且无限量
   qqnlpchat_conf:
-    app_id: '你申请的api_id'
-    app_key: '你申请的app_key'
+    app_id: '2156656407'
+    app_key: 'zHrIKOwycHBe0I32'
 
   # 海知智能 <https://ruyi.ai/> 功能很强大，不仅仅用于聊天。需申请 key，免费
   ruyi_conf:
